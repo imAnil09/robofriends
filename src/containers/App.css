@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Destruido", "Courier New", Courier, monospace;
+  font-style: normal;
+  font-weight: normal;
+  src: local("Destruido Font Family");
+}
+
+h1 {
+  font-family: "Destruido";
+  /* font-size: 72em; */
+  /* font-weight: 200; */
+  color: #0ccac4;
+}
